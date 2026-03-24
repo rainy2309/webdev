@@ -1,16 +1,9 @@
-# WebApp Starter
+# WebDev Starter
 
 A collaborative full-stack web application starter for the team’s competition project.
 
 ## Purpose
 This repository is a reusable starter for full-stack web development projects across different domains.
-
-## Tech Stack
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Prisma
-- PostgreSQL
 
 ## Branch Strategy
 - `main`: stable branch
